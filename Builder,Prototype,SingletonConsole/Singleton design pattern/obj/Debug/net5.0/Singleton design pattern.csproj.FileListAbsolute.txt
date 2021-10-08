@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\bin\Debug\net5.0\Singleton design pattern.exe
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\bin\Debug\net5.0\Singleton design pattern.deps.json
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\bin\Debug\net5.0\Singleton design pattern.runtimeconfig.json
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\bin\Debug\net5.0\Singleton design pattern.runtimeconfig.dev.json
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\bin\Debug\net5.0\Singleton design pattern.dll
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\bin\Debug\net5.0\ref\Singleton design pattern.dll
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\bin\Debug\net5.0\Singleton design pattern.pdb
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\obj\Debug\net5.0\Singleton design pattern.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\obj\Debug\net5.0\Singleton design pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\obj\Debug\net5.0\Singleton design pattern.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\obj\Debug\net5.0\Singleton design pattern.AssemblyInfo.cs
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\obj\Debug\net5.0\Singleton design pattern.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\obj\Debug\net5.0\Singleton design pattern.dll
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\obj\Debug\net5.0\ref\Singleton design pattern.dll
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\obj\Debug\net5.0\Singleton design pattern.pdb
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Singleton design pattern\obj\Debug\net5.0\Singleton design pattern.genruntimeconfig.cache

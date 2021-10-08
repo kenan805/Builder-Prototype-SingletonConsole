@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\bin\Debug\net5.0\Builder design pattern.exe
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\bin\Debug\net5.0\Builder design pattern.deps.json
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\bin\Debug\net5.0\Builder design pattern.runtimeconfig.json
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\bin\Debug\net5.0\Builder design pattern.runtimeconfig.dev.json
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\bin\Debug\net5.0\Builder design pattern.dll
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\bin\Debug\net5.0\ref\Builder design pattern.dll
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\bin\Debug\net5.0\Builder design pattern.pdb
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\obj\Debug\net5.0\Builder design pattern.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\obj\Debug\net5.0\Builder design pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\obj\Debug\net5.0\Builder design pattern.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\obj\Debug\net5.0\Builder design pattern.AssemblyInfo.cs
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\obj\Debug\net5.0\Builder design pattern.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\obj\Debug\net5.0\Builder design pattern.dll
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\obj\Debug\net5.0\ref\Builder design pattern.dll
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\obj\Debug\net5.0\Builder design pattern.pdb
+C:\Users\user\source\repos\Builder,Prototype,SingletonConsole\Builder,Prototype,SingletonConsole\obj\Debug\net5.0\Builder design pattern.genruntimeconfig.cache
